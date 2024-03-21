@@ -137,7 +137,7 @@ public class Board extends JPanel implements IBoard {
             }
             case OUT -> {
                 System.out.println("You are OUT");
-                
+                System.out.println("You are OUT");
             }
             case WIN -> {
                 System.out.println("You Win!");
